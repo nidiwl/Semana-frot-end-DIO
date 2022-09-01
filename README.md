@@ -1,6 +1,6 @@
-Readme da DIO.
+Para rodar todas a funçoes corretamente tem que rodar atraves de um HTTP server. (o VSC tem essa função com a extensão correta )
 
-O site não fun
+Readme da DIO:
 
 <p align="center">
     <img width="300" src="https://micheleambrosio.github.io/semana-frontend-mundo-invertido/assets/images/banner/logo.svg">
